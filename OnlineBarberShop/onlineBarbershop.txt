@@ -1,7 +1,8 @@
 
 Online Application Title: OnlineBarber shop Application
-Team:			Mahesh wale
-			Manojay Kulkarni
+Team:			Vaibhav Deokar
+                        Pranav Sakhare
+			Mithil Sakhare
 
 SRS Document:
 
