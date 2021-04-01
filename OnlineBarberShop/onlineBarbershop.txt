@@ -2,7 +2,7 @@
 Online Application Title: OnlineBarber shop Application
 Team:			Vaibhav Deokar
                         Pranav Sakhare
-			Mithil Sakhare
+			Mithil Chavan
 
 SRS Document:
 
